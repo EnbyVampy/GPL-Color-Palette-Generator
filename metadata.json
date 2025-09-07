@@ -1,0 +1,5 @@
+{
+  "name": "GPL Color Palette Generator",
+  "description": "A tool to create custom color palettes and export them in the .gpl format for use in digital image editors. Adjust colors, shades, and ranges to generate the perfect palette.",
+  "requestFramePermissions": []
+}
